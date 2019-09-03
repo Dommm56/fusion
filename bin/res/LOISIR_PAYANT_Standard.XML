@@ -1,0 +1,1148 @@
+<?xml version="1.0" encoding = "UTF-8" ?><ns1:EVTS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:ns1="http://donnees.ville.qc.ca/evenement"
+>
+<EVT><MUNID>23027</MUNID>
+<CODEID>ACEN3800-625706-3BPS</CODEID>
+<DT01>2019-08-26</DT01>
+<DT02>2019-12-16</DT02>
+<HOR>Lundi de 08:00 à 12:30</HOR>
+<TITRE>Ateliers préscolaires Les Petits Copains</TITRE>
+<LOC>4473, rue Saint-Félix, Québec (QC) G1Y 3A6 </LOC>
+<DESCRIP>Ressource Espace Familles </DESCRIP>
+<CO>270,00</CO>
+<CATEG>Loisirs pré-scolaire</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>ACEN3800-625732-3BPS</CODEID>
+<DT01>2019-08-26</DT01>
+<DT02>2019-12-16</DT02>
+<HOR>Lundi de 12:30 à 17:00</HOR>
+<TITRE>Ateliers préscolaires Les Petits Copains</TITRE>
+<LOC>4473, rue Saint-Félix, Québec (QC) G1Y 3A6 </LOC>
+<DESCRIP>Ressource Espace Familles </DESCRIP>
+<CO>270,00</CO>
+<CATEG>Loisirs pré-scolaire</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>ACEN3800-625733-3BPS</CODEID>
+<DT01>2019-08-27</DT01>
+<DT02>2019-12-17</DT02>
+<HOR>Mardi de 08:00 à 12:30</HOR>
+<TITRE>Ateliers préscolaires Les Petits Copains</TITRE>
+<LOC>4473, rue Saint-Félix, Québec (QC) G1Y 3A6 </LOC>
+<DESCRIP>Ressource Espace Familles </DESCRIP>
+<CO>306,00</CO>
+<CATEG>Loisirs pré-scolaire</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>ACEN3800-626151-3BPS</CODEID>
+<DT01>2019-08-27</DT01>
+<DT02>2019-12-17</DT02>
+<HOR>Mardi de 12:30 à 17:00</HOR>
+<TITRE>Ateliers préscolaires Les Petits Copains</TITRE>
+<LOC>4473, rue Saint-Félix, Québec (QC) G1Y 3A6 </LOC>
+<DESCRIP>Ressource Espace Familles </DESCRIP>
+<CO>306,00</CO>
+<CATEG>Loisirs pré-scolaire</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>ACPH2005-613194-2BNOLIN</CODEID>
+<DT01>2019-05-02</DT01>
+<DT02>2019-08-29</DT02>
+<HOR>Jeudi de 17:30 à 20:00</HOR>
+<TITRE>Activités physiques</TITRE>
+<LOC>340, rue Chabot, Québec (QC) G1M 3J5 </LOC>
+<DESCRIP>Loisirs Vanier</DESCRIP>
+<CO>100,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>AIKI5780-614037-5BALEXIS</CODEID>
+<DT01>2019-07-01</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Lundi de 19:00 à 21:00</HOR>
+<TITRE>Aikido</TITRE>
+<LOC>2175, avenue Saint-Clément, Québec (QC) G1E 6X6 </LOC>
+<DESCRIP>Dojo de Beauport inc.</DESCRIP>
+<CO>60,00</CO>
+<CATEG>Sports de combat</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>AQUF2007-612127-2BLACHANCE</CODEID>
+<DT01>2019-06-27</DT01>
+<DT02>2019-08-29</DT02>
+<HOR>Jeudi de 07:30 à 08:25</HOR>
+<TITRE>Aquaforme</TITRE>
+<LOC>2920, rue Claisse, Québec (QC) G1P 4G7 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Activités aquatiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>AQUF2007-612129-2BLACHANCE</CODEID>
+<DT01>2019-06-27</DT01>
+<DT02>2019-08-29</DT02>
+<HOR>Jeudi de 08:30 à 09:25</HOR>
+<TITRE>Aquaforme</TITRE>
+<LOC>2920, rue Claisse, Québec (QC) G1P 4G7 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Activités aquatiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>AQUF2007-612130-2BLACHANCE</CODEID>
+<DT01>2019-06-28</DT01>
+<DT02>2019-08-30</DT02>
+<HOR>Vendredi de 08:30 à 09:25</HOR>
+<TITRE>Aquaforme</TITRE>
+<LOC>2920, rue Claisse, Québec (QC) G1P 4G7 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Activités aquatiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>AQUZ2107-612665-2BLACHANCE</CODEID>
+<DT01>2019-06-28</DT01>
+<DT02>2019-08-30</DT02>
+<HOR>Vendredi de 07:40 à 08:25</HOR>
+<TITRE>Aqua - Zumba / Aquaforme - Yoga Pilates sur aquamat</TITRE>
+<LOC>2920, rue Claisse, Québec (QC) G1P 4G7 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Activités aquatiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>BADM2006-613145-2BNOLIN</CODEID>
+<DT01>2019-05-02</DT01>
+<DT02>2019-08-29</DT02>
+<HOR>Jeudi de 20:15 à 22:15</HOR>
+<TITRE>Badminton - Saisonnier</TITRE>
+<LOC>340, rue Chabot, Québec (QC) G1M 3J5 </LOC>
+<DESCRIP>Loisirs Vanier</DESCRIP>
+<CO>80,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>BAMO3001-618219-3PPAPROVANCH</CODEID>
+<DT01>2019-05-16</DT01>
+<DT02>2019-09-22</DT02>
+<HOR>Dimanche de 10:00 à 12:00</HOR>
+<HOR>Jeudi de 20:30 à 22:30</HOR>
+<TITRE>Comité de balle-molle (homme-détente) de Cap-Rouge</TITRE>
+<LOC>4170, rue Michel-Hervé, Québec (QC) G1Y 1T1 </LOC>
+<DESCRIP>Comité de balle-molle (homme-détente) de Cap-Rouge inc.</DESCRIP>
+<CO>60,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>BAMO4001-615682-4PMGORETT</CODEID>
+<DT01>2019-05-20</DT01>
+<DT02>2019-09-05</DT02>
+<HOR>Jeudi de 20:30 à 22:00</HOR>
+<HOR>Lundi de 20:30 à 22:00</HOR>
+<HOR>Mardi de 20:30 à 22:00</HOR>
+<HOR>Mercredi de 20:30 à 22:00</HOR>
+<TITRE>Balle-molle Hommes / Balle-molle pour hommes</TITRE>
+<LOC>7475, avenue Paul-Comtois, Québec (QC) G1H 5X6 </LOC>
+<DESCRIP>Loisirs Maria-Goretti inc. (Les)</DESCRIP>
+<CO>175,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>BAMO4003-614758-4PBROYAL</CODEID>
+<DT01>2019-04-29</DT01>
+<DT02>2019-08-30</DT02>
+<HOR>Jeudi de 20:00 à 23:00</HOR>
+<HOR>Mardi de 20:00 à 23:00</HOR>
+<HOR>Mercredi de 20:00 à 23:00</HOR>
+<TITRE>Balle-molle</TITRE>
+<LOC>1435, boulevard Louis-XIV, Québec (QC) G2L 1M4 </LOC>
+<DESCRIP>Club sportif Les Vieilles Lames inc. (Le)</DESCRIP>
+<CO>225,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>BASK2000-633094-2BLEBOURG</CODEID>
+<DT01>2019-06-27</DT01>
+<DT02>2019-08-29</DT02>
+<HOR>Jeudi de 18:15 à 20:00</HOR>
+<TITRE>Basketball - Cours / Basketball - Réservation saisonnière</TITRE>
+<LOC>1650, boulevard La Morille, Québec (QC) G2K 2L2 </LOC>
+<DESCRIP>Loisirs Lebourgneuf inc.</DESCRIP>
+<CO>400,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CAMP3008-617754-3BPIBERNIER</CODEID>
+<DT01>2019-08-19</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Jeudi de 09:00 à 16:00</HOR>
+<HOR>Lundi de 09:00 à 16:00</HOR>
+<HOR>Mardi de 09:00 à 16:00</HOR>
+<HOR>Mercredi de 09:00 à 16:00</HOR>
+<HOR>Vendredi de 09:00 à 16:00</HOR>
+<TITRE>Camp de natation</TITRE>
+<LOC>3020, boulevard Hochelaga, Québec (QC) G1V 3Y4 </LOC>
+<DESCRIP>Natation Sainte-Foy-Haute-Saint-Charles</DESCRIP>
+<CO>230,00</CO>
+<CATEG>Camp spécialisé</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CAMP7200-629884-7BCCSTEMILE</CODEID>
+<DT01>2019-08-26</DT01>
+<DT02>2019-08-29</DT02>
+<HOR>Jeudi de 07:00 à 18:00</HOR>
+<HOR>Lundi de 07:00 à 18:00</HOR>
+<HOR>Mardi de 07:00 à 18:00</HOR>
+<HOR>Mercredi de 07:00 à 18:00</HOR>
+<TITRE>Camp de jour prolongé - Secteur de Saint-Émile</TITRE>
+<LOC>2200, rue de la Faune, Québec (QC) G3E 1K6 </LOC>
+<DESCRIP>Loisirs des Hauts-Sentiers</DESCRIP>
+<CO>85,00</CO>
+<CATEG>Camp spécialisé</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CARD1204-615275-1BLBORNE</CODEID>
+<DT01>2019-06-26</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 17:00 à 17:45</HOR>
+<TITRE>Spinning</TITRE>
+<LOC>100, chemin Sainte-Foy, Québec (QC) G1R 1T2 </LOC>
+<DESCRIP>Loisirs du Faubourg inc.</DESCRIP>
+<CO>65,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CARD1204-615277-1BLBORNE</CODEID>
+<DT01>2019-06-26</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 17:50 à 18:35</HOR>
+<TITRE>Spinning</TITRE>
+<LOC>100, chemin Sainte-Foy, Québec (QC) G1R 1T2 </LOC>
+<DESCRIP>Loisirs du Faubourg inc.</DESCRIP>
+<CO>65,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CARD2013-613410-2PCHAUVEAU</CODEID>
+<DT01>2019-06-26</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 10:00 à 10:55</HOR>
+<TITRE>PLEIN AIR / Plein air - Parcours actif - Maman/Bébé</TITRE>
+<LOC>3175, avenue Chauveau, Québec (QC) G2C 1A3 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CARD2013-613434-2PCHAUVEAU</CODEID>
+<DT01>2019-06-26</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 09:00 à 09:55</HOR>
+<TITRE>PLEIN AIR / Plein air - Parcours 55 + Actif</TITRE>
+<LOC>3175, avenue Chauveau, Québec (QC) G2C 1A3 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CARD2035-613259-2BLACHANCE</CODEID>
+<DT01>2019-06-26</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 18:30 à 20:00</HOR>
+<TITRE>Jogging </TITRE>
+<LOC>2920, rue Claisse, Québec (QC) G1P 4G7 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>68,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CARD2035-614765-2BLACHANCE</CODEID>
+<DT01>2019-06-26</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 18:30 à 19:25</HOR>
+<TITRE>Jogging </TITRE>
+<LOC>2920, rue Claisse, Québec (QC) G1P 4G7 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CARD2109-629878-2BSAULES</CODEID>
+<DT01>2019-06-27</DT01>
+<DT02>2019-08-29</DT02>
+<HOR>Jeudi de 19:30 à 20:25</HOR>
+<TITRE>Hiit</TITRE>
+<LOC>4120, rue De Musset, Québec (QC) G1P 1P1 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CARD3015-617800-3BCCARTIER</CODEID>
+<DT01>2019-06-26</DT01>
+<DT02>2019-09-01</DT02>
+<HOR>Dimanche de 07:00 à 08:00</HOR>
+<TITRE>Triathlon</TITRE>
+<LOC>3643, avenue des Compagnons, Québec (QC) G1X 3Z6 </LOC>
+<DESCRIP>Natation Sainte-Foy-Haute-Saint-Charles</DESCRIP>
+<CO>105,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CARD4112-615876-4CCDJ</CODEID>
+<DT01>2019-08-06</DT01>
+<DT02>2019-09-03</DT02>
+<HOR>Mardi de 18:45 à 19:45</HOR>
+<TITRE>Mise en forme en plein air</TITRE>
+<LOC>4225, rue des Roses, Québec (QC) G1G 1N9 </LOC>
+<DESCRIP>Loisirs du Jardin inc.</DESCRIP>
+<CO>34,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CARD4112-615877-4CCDJ</CODEID>
+<DT01>2019-08-08</DT01>
+<DT02>2019-09-05</DT02>
+<HOR>Jeudi de 18:45 à 19:45</HOR>
+<TITRE>Mise en forme en plein air</TITRE>
+<LOC>4225, rue des Roses, Québec (QC) G1G 1N9 </LOC>
+<DESCRIP>Loisirs du Jardin inc.</DESCRIP>
+<CO>34,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>CHAN1203-618939-1BCCMARCHAND</CODEID>
+<DT01>2019-08-26</DT01>
+<DT02>2019-12-16</DT02>
+<HOR>Lundi de 19:00 à 21:40</HOR>
+<TITRE>Chant de groupe / Chorale (groupe vocal)</TITRE>
+<LOC>2740, 2e Avenue, Québec (QC) G1L 4Y8 </LOC>
+<DESCRIP>Groupe vocal Privilège</DESCRIP>
+<CO>115,00</CO>
+<CATEG>Arts de la scène</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>COND1200-631558-1BCCMM</CODEID>
+<DT01>2019-08-19</DT01>
+<DT02>2019-11-19</DT02>
+<HOR>Jeudi de 07:00 à 21:00</HOR>
+<HOR>Lundi de 07:00 à 21:00</HOR>
+<HOR>Mardi de 07:00 à 21:00</HOR>
+<HOR>Mercredi de 07:00 à 21:00</HOR>
+<HOR>Samedi de 08:00 à 12:00</HOR>
+<HOR>Vendredi de 07:00 à 21:00</HOR>
+<TITRE>Conditionnement physique / Entraînement en salle libre</TITRE>
+<LOC>2025, rue Adjutor-Rivard, Québec (QC) G1J 0H6 </LOC>
+<DESCRIP>Centre Mgr Marcoux inc.</DESCRIP>
+<CO>55,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>COND1200-631679-1BCGARNE</CODEID>
+<DT01>2019-08-12</DT01>
+<DT02>2019-12-20</DT02>
+<HOR>Dimanche de 11:00 à 15:00</HOR>
+<HOR>Jeudi de 12:00 à 14:00</HOR>
+<HOR>Jeudi de 16:00 à 21:30</HOR>
+<HOR>Lundi de 12:00 à 14:00</HOR>
+<HOR>Lundi de 16:00 à 21:30</HOR>
+<HOR>Mardi de 12:00 à 14:00</HOR>
+<HOR>Mardi de 16:00 à 21:30</HOR>
+<HOR>Mercredi de 12:00 à 14:00</HOR>
+<HOR>Mercredi de 16:00 à 21:30</HOR>
+<HOR>Samedi de 11:00 à 15:00</HOR>
+<HOR>Vendredi de 12:00 à 20:00</HOR>
+<TITRE>Conditionnement physique / Entraînement en salle</TITRE>
+<LOC>1660, boulevard de l'Entente, Québec (QC) G1S 4S3 </LOC>
+<DESCRIP>Centre des loisirs Saint-Sacrement inc.</DESCRIP>
+<CO>135,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>COND2049-629883-2BDUBERGER</CODEID>
+<DT01>2019-06-26</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 10:00 à 10:55</HOR>
+<TITRE>Mise en forme 55 ans et plus</TITRE>
+<LOC>2341, rue de la Rivière-du-Berger, Québec (QC) G1P 3N6 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>DANS1103-614897-1BURIEL</CODEID>
+<DT01>2019-06-12</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 10:00 à 11:30</HOR>
+<TITRE>Ballet classique</TITRE>
+<LOC>108-1415, rue Frank-Carrel, Québec (QC) G1N 4N7 </LOC>
+<DESCRIP>École du Ballet de Québec</DESCRIP>
+<CO>375,00</CO>
+<CATEG>Arts de la scène</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>DANS1103-614914-1BURIEL</CODEID>
+<DT01>2019-06-12</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 19:00 à 20:30</HOR>
+<TITRE>Ballet classique</TITRE>
+<LOC>108-1415, rue Frank-Carrel, Québec (QC) G1N 4N7 </LOC>
+<DESCRIP>École du Ballet de Québec</DESCRIP>
+<CO>255,00</CO>
+<CATEG>Arts de la scène</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>DANS1103-614915-1BURIEL</CODEID>
+<DT01>2019-06-14</DT01>
+<DT02>2019-08-30</DT02>
+<HOR>Vendredi de 19:00 à 20:30</HOR>
+<TITRE>Ballet classique</TITRE>
+<LOC>108-1415, rue Frank-Carrel, Québec (QC) G1N 4N7 </LOC>
+<DESCRIP>École du Ballet de Québec</DESCRIP>
+<CO>255,00</CO>
+<CATEG>Arts de la scène</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>DANS5367-623364-5BSAVIO</CODEID>
+<DT01>2019-08-21</DT01>
+<DT02>2019-12-11</DT02>
+<HOR>Mercredi de 18:15 à 20:15</HOR>
+<TITRE>Danses québécoises, irlandaises et internationales / Danses irlandaises</TITRE>
+<LOC>95, rue Savio, Québec (QC) G1E 1G5 </LOC>
+<DESCRIP>Tourbillons de Beauport inc. (Les)</DESCRIP>
+<CO>190,00</CO>
+<CATEG>Arts de la scène</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>EVEN4117-615718-4BMJESUIT</CODEID>
+<DT01>2019-06-12</DT01>
+<DT02>2019-09-01</DT02>
+<HOR>Dimanche de 10:00 à 15:00</HOR>
+<HOR>Jeudi de 10:00 à 15:00</HOR>
+<HOR>Lundi de 10:00 à 15:00</HOR>
+<HOR>Mardi de 10:00 à 15:00</HOR>
+<HOR>Mercredi de 10:00 à 15:00</HOR>
+<HOR>Samedi de 10:00 à 15:00</HOR>
+<HOR>Vendredi de 10:00 à 15:00</HOR>
+<TITRE>« À vos GPS, partez! »</TITRE>
+<LOC>7960, boulevard Henri-Bourassa, Québec (QC) G1H 3G3 </LOC>
+<DESCRIP>Corporation du Moulin des Jésuites</DESCRIP>
+<CO>6,00</CO>
+<CATEG>Événement spécial</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>EXPO4065-615720-4BMJESUIT</CODEID>
+<DT01>2019-06-12</DT01>
+<DT02>2019-09-03</DT02>
+<HOR>Dimanche de 10:00 à 17:00</HOR>
+<HOR>Jeudi de 10:00 à 17:00</HOR>
+<HOR>Lundi de 10:00 à 17:00</HOR>
+<HOR>Mardi de 10:00 à 17:00</HOR>
+<HOR>Mercredi de 10:00 à 17:00</HOR>
+<HOR>Samedi de 10:00 à 17:00</HOR>
+<HOR>Vendredi de 10:00 à 17:00</HOR>
+<TITRE>« Vivre au Trait-Carré au temps des Moulins »</TITRE>
+<LOC>7960, boulevard Henri-Bourassa, Québec (QC) G1H 3G3 </LOC>
+<DESCRIP>Corporation du Moulin des Jésuites</DESCRIP>
+<CO>4,00</CO>
+<CATEG>Exposition</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>GYMN9430-617037-4BARPICHA</CODEID>
+<DT01>2019-07-01</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mercredi de 18:35 à 20:35</HOR>
+<TITRE>Gymnastique spécialisée au sol</TITRE>
+<LOC>750, rue de la Sorbonne, C.P. 700 Québec (QC) G1H 1H1 </LOC>
+<DESCRIP>Club de gymnastique Québec Performance</DESCRIP>
+<CO>160,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>HOCK2012-613299-2BNOLIN</CODEID>
+<DT01>2019-05-08</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 19:00 à 21:00</HOR>
+<TITRE>Hockey cosom</TITRE>
+<LOC>340, rue Chabot, Québec (QC) G1M 3J5 </LOC>
+<DESCRIP>Loisirs Vanier</DESCRIP>
+<CO>110,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>HORT5416-615428-5SCAMPIN</CODEID>
+<DT01>2019-06-16</DT01>
+<DT02>2019-09-08</DT02>
+<HOR>Dimanche de 09:00 à 10:30</HOR>
+<HOR>Samedi de 09:00 à 10:30</HOR>
+<TITRE>Interprétation de la nature (centre d') / Animation jeunesse</TITRE>
+<LOC>95, rue Vaubert, Québec (QC) G1C 8G7 </LOC>
+<DESCRIP>Groupe d'éducation et d'écosurveillance de l'eau (G3E)</DESCRIP>
+<CO>2,00</CO>
+<CATEG>Loisir éducatif</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>HORT5416-615445-5SCAMPIN</CODEID>
+<DT01>2019-06-16</DT01>
+<DT02>2019-09-08</DT02>
+<HOR>Dimanche de 13:00 à 14:30</HOR>
+<HOR>Samedi de 13:00 à 14:30</HOR>
+<TITRE>Interprétation de la nature (centre d') / Interprétation en rabaska pour tous</TITRE>
+<LOC>95, rue Vaubert, Québec (QC) G1C 8G7 </LOC>
+<DESCRIP>Groupe d'éducation et d'écosurveillance de l'eau (G3E)</DESCRIP>
+<CO>6,00</CO>
+<CATEG>Loisir éducatif</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>KARA4001-614982-4BECGMATH</CODEID>
+<DT01>2019-07-02</DT01>
+<DT02>2019-09-17</DT02>
+<HOR>Mardi de 18:30 à 20:00</HOR>
+<TITRE>Karaté Shotokan JKA--JKS / Karaté Shotokan JKA-JSK</TITRE>
+<LOC>615, avenue Hélène-Paradis, Québec (QC) G1G 5G1 </LOC>
+<DESCRIP>Loisirs Guillaume-Mathieu inc.</DESCRIP>
+<CO>110,00</CO>
+<CATEG>Sports de combat</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>KARA7939-612247-2BLABADIE</CODEID>
+<DT01>2019-06-25</DT01>
+<DT02>2019-09-10</DT02>
+<HOR>Mardi de 19:00 à 20:30</HOR>
+<TITRE>Karaté Yoseikan / Karaté yoseikan</TITRE>
+<LOC>3705, avenue Chauveau, Québec (QC) G2C 1A3 </LOC>
+<DESCRIP>Sports-Loisirs L'Ormière </DESCRIP>
+<CO>80,00</CO>
+<CATEG>Sports de combat</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>MUSC2104-629882-2BDUBERGER</CODEID>
+<DT01>2019-06-26</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 09:00 à 09:55</HOR>
+<TITRE>Stretching tonus</TITRE>
+<LOC>2341, rue de la Rivière-du-Berger, Québec (QC) G1P 3N6 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>MUSI2000-633042-2BSAULES</CODEID>
+<DT01>2019-07-01</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mardi de 18:30 à 20:30</HOR>
+<HOR>Samedi de 09:30 à 11:30</HOR>
+<TITRE>Musique - Corps de tambour / Musique - Fanfare</TITRE>
+<LOC>4120, rue De Musset, Québec (QC) G1P 1P1 </LOC>
+<DESCRIP>Éclairs inc. (Les)</DESCRIP>
+<CO>125,00</CO>
+<CATEG>Arts de la scène</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>MUSI5268-617085-5BECOFRB</CODEID>
+<DT01>2019-07-01</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Samedi de 09:30 à 12:00</HOR>
+<TITRE>Musique</TITRE>
+<LOC>50, avenue des Cascades, Québec (QC) G1E 2J7 </LOC>
+<DESCRIP>Alouette de Québec cuivres et percussions</DESCRIP>
+<CO>50,00</CO>
+<CATEG>Arts de la scène</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>NACL3001-617805-3BPIBERNIER</CODEID>
+<DT01>2019-06-24</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Jeudi de 06:00 à 08:30</HOR>
+<HOR>Lundi de 17:30 à 19:00</HOR>
+<HOR>Mardi de 06:00 à 08:30</HOR>
+<HOR>Samedi de 06:30 à 08:00</HOR>
+<TITRE>Natation maître-nageurs / Natation maître-nageur, 1 fois semaine</TITRE>
+<LOC>3020, boulevard Hochelaga, Québec (QC) G1V 3Y4 </LOC>
+<DESCRIP>Natation Sainte-Foy-Haute-Saint-Charles</DESCRIP>
+<CO>88,00</CO>
+<CATEG>Clubs de natation</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>NACL3001-617806-3BPIBERNIER</CODEID>
+<DT01>2019-06-24</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Jeudi de 06:00 à 07:30</HOR>
+<HOR>Lundi de 17:30 à 19:00</HOR>
+<HOR>Mardi de 06:00 à 07:30</HOR>
+<HOR>Samedi de 06:30 à 08:00</HOR>
+<TITRE>Natation maître-nageurs / Natation maître-nageur, 2 fois semaine</TITRE>
+<LOC>3020, boulevard Hochelaga, Québec (QC) G1V 3Y4 </LOC>
+<DESCRIP>Natation Sainte-Foy-Haute-Saint-Charles</DESCRIP>
+<CO>125,00</CO>
+<CATEG>Clubs de natation</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>NACL3001-617807-3BPIBERNIER</CODEID>
+<DT01>2019-06-24</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Jeudi de 06:00 à 07:30</HOR>
+<HOR>Lundi de 17:30 à 19:00</HOR>
+<HOR>Mardi de 06:00 à 07:30</HOR>
+<HOR>Samedi de 06:30 à 08:00</HOR>
+<TITRE>Natation maître-nageurs / Natation maître-nageur, 3 fois semaine</TITRE>
+<LOC>3020, boulevard Hochelaga, Québec (QC) G1V 3Y4 </LOC>
+<DESCRIP>Natation Sainte-Foy-Haute-Saint-Charles</DESCRIP>
+<CO>142,00</CO>
+<CATEG>Clubs de natation</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>PATR4001-615721-4BMJESUIT</CODEID>
+<DT01>2019-06-22</DT01>
+<DT02>2019-09-01</DT02>
+<HOR>Dimanche de 10:30 à 11:30</HOR>
+<HOR>Dimanche de 11:30 à 12:30</HOR>
+<HOR>Dimanche de 15:00 à 16:00</HOR>
+<HOR>Jeudi de 10:30 à 11:30</HOR>
+<HOR>Jeudi de 11:30 à 12:30</HOR>
+<HOR>Jeudi de 15:30 à 16:30</HOR>
+<HOR>Mercredi de 10:30 à 11:30</HOR>
+<HOR>Mercredi de 11:30 à 12:30</HOR>
+<HOR>Mercredi de 15:00 à 16:00</HOR>
+<HOR>Samedi de 10:30 à 11:30</HOR>
+<HOR>Samedi de 11:30 à 12:30</HOR>
+<HOR>Samedi de 15:00 à 16:00</HOR>
+<HOR>Vendredi de 10:30 à 11:30</HOR>
+<HOR>Vendredi de 11:30 à 12:30</HOR>
+<HOR>Vendredi de 15:00 à 16:00</HOR>
+<TITRE>Visite commentée du Moulin des Jésuites</TITRE>
+<LOC>7960, boulevard Henri-Bourassa, Québec (QC) G1H 3G3 </LOC>
+<DESCRIP>Corporation du Moulin des Jésuites</DESCRIP>
+<CO>5,00</CO>
+<CATEG>Culture et Patrimoine</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>PATR4002-615722-4BMJESUIT</CODEID>
+<DT01>2019-06-22</DT01>
+<DT02>2019-09-01</DT02>
+<HOR>Dimanche de 13:00 à 17:00</HOR>
+<HOR>Jeudi de 13:00 à 17:00</HOR>
+<HOR>Mercredi de 13:00 à 17:00</HOR>
+<HOR>Samedi de 13:00 à 17:00</HOR>
+<HOR>Vendredi de 13:00 à 17:00</HOR>
+<TITRE>Visite guidée de l'arrondissement du Trait-Carré</TITRE>
+<LOC>7960, boulevard Henri-Bourassa, Québec (QC) G1H 3G3 </LOC>
+<DESCRIP>Corporation du Moulin des Jésuites</DESCRIP>
+<CO>6,00</CO>
+<CATEG>Culture et Patrimoine</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>PETA5394-618544-5BLACAVE</CODEID>
+<DT01>2019-05-27</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Lundi de 19:00 à 21:00</HOR>
+<HOR>Mercredi de 19:00 à 21:00</HOR>
+<TITRE>Pétanque</TITRE>
+<LOC>69, avenue Juchereau, Québec (QC) G1E 6W7 </LOC>
+<DESCRIP>Club - FADOQ de Beauport inc.</DESCRIP>
+<CO>20,00</CO>
+<CATEG>Loisirs récréatifs</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>PETA5440-616144-5PJEANGU</CODEID>
+<DT01>2019-05-13</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Lundi de 18:00 à 22:00</HOR>
+<TITRE>Pétanque</TITRE>
+<LOC>153, avenue des Sablonnières, Québec (QC) G1B 1B8 </LOC>
+<DESCRIP>Club de pétanque "La boule d'argent"</DESCRIP>
+<CO>3,00</CO>
+<CATEG>Loisirs récréatifs</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>PRVE4001-616878-4PGMATHIE</CODEID>
+<DT01>2019-07-01</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Jeudi de 09:00 à 16:00</HOR>
+<HOR>Lundi de 09:00 à 16:00</HOR>
+<HOR>Mardi de 09:00 à 16:00</HOR>
+<HOR>Mercredi de 09:00 à 16:00</HOR>
+<HOR>Vendredi de 09:00 à 16:00</HOR>
+<TITRE>Programme Vacances-été / Camp de jour parc Guillaume-Mathieu</TITRE>
+<LOC>720, avenue de Gironde, Québec (QC) G1G 3H7 </LOC>
+<DESCRIP>Loisirs Guillaume-Mathieu inc.</DESCRIP>
+<CO>245,00</CO>
+<CATEG>Programme vacance été</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>PRVE4001-617050-4PTERBONA</CODEID>
+<DT01>2019-07-01</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Jeudi de 09:00 à 16:00</HOR>
+<HOR>Lundi de 09:00 à 16:00</HOR>
+<HOR>Mardi de 09:00 à 16:00</HOR>
+<HOR>Mercredi de 09:00 à 16:00</HOR>
+<HOR>Vendredi de 09:00 à 16:00</HOR>
+<TITRE>Programme Vacances-été / Camp de jour parc Terrasse Bon-Air</TITRE>
+<LOC>1085, 60e Rue Est, Québec (QC) G1H 2E3 </LOC>
+<DESCRIP>Loisirs Bourassa inc. (Les)</DESCRIP>
+<CO>245,00</CO>
+<CATEG>Programme vacance été</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>PURI3001-618657-3PPALOUIS</CODEID>
+<DT01>2019-05-21</DT01>
+<DT02>2019-10-15</DT02>
+<HOR>Mardi de 20:00 à 21:30</HOR>
+<TITRE>Pur instinct</TITRE>
+<LOC>1560, route de l'Église, Québec (QC) G1W 3P5 </LOC>
+<DESCRIP>4 loisirs inc.</DESCRIP>
+<CO>20,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>PURI3001-618658-3PPALOUIS</CODEID>
+<DT01>2019-05-22</DT01>
+<DT02>2019-10-16</DT02>
+<HOR>Mercredi de 20:00 à 21:30</HOR>
+<TITRE>Pur instinct</TITRE>
+<LOC>1560, route de l'Église, Québec (QC) G1W 3P5 </LOC>
+<DESCRIP>4 loisirs inc.</DESCRIP>
+<CO>20,00</CO>
+<CATEG>Activités physiques</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>QUIL1100-619459-1BSQSTPASCAL</CODEID>
+<DT01>2019-08-21</DT01>
+<DT02>2019-12-18</DT02>
+<HOR>Mercredi de 13:00 à 15:00</HOR>
+<TITRE>Quilles / Ligue de quilles</TITRE>
+<LOC>2485, boulevard Sainte-Anne, Québec (QC) G1J 1Y4 </LOC>
+<DESCRIP>Âge d'or Saint-Pie X</DESCRIP>
+<CO>12,00</CO>
+<CATEG>Loisirs récréatifs</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>RELA1000-632489-1BCSACREM</CODEID>
+<DT01>2019-08-26</DT01>
+<DT02>2019-08-29</DT02>
+<HOR>Jeudi de 07:30 à 17:45</HOR>
+<HOR>Lundi de 07:30 à 17:45</HOR>
+<HOR>Mardi de 07:30 à 17:45</HOR>
+<HOR>Mercredi de 07:30 à 17:45</HOR>
+<TITRE>Relâche scolaire / Congés pédagogiques de la rentrée</TITRE>
+<LOC>1360, boulevard de l'Entente, Québec (QC) G1S 2T9 </LOC>
+<DESCRIP>Centre des loisirs Saint-Sacrement inc.</DESCRIP>
+<CO>20,00</CO>
+<CATEG>Relâche</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>SOCC3007-617233-3PPALOUIS</CODEID>
+<DT01>2019-05-27</DT01>
+<DT02>2019-09-30</DT02>
+<HOR>Lundi de 20:00 à 21:30</HOR>
+<TITRE>Soccer (Femmes)</TITRE>
+<LOC>1560, route de l'Église, Québec (QC) G1W 3P5 </LOC>
+<DESCRIP>4 loisirs inc.</DESCRIP>
+<CO>60,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>SOCC3033-617325-3PPALOUIS</CODEID>
+<DT01>2019-05-21</DT01>
+<DT02>2019-09-24</DT02>
+<HOR>Mardi de 20:00 à 21:30</HOR>
+<TITRE>Soccer extérieur</TITRE>
+<LOC>1560, route de l'Église, Québec (QC) G1W 3P5 </LOC>
+<DESCRIP>4 loisirs inc.</DESCRIP>
+<CO>60,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>SOCC3033-617326-3PPALOUIS</CODEID>
+<DT01>2019-05-23</DT01>
+<DT02>2019-09-26</DT02>
+<HOR>Jeudi de 20:00 à 21:30</HOR>
+<TITRE>Soccer extérieur</TITRE>
+<LOC>1560, route de l'Église, Québec (QC) G1W 3P5 </LOC>
+<DESCRIP>4 loisirs inc.</DESCRIP>
+<CO>60,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>SOCC3033-617327-3PPALOUIS</CODEID>
+<DT01>2019-05-22</DT01>
+<DT02>2019-09-25</DT02>
+<HOR>Mercredi de 20:00 à 21:30</HOR>
+<TITRE>Soccer extérieur</TITRE>
+<LOC>1560, route de l'Église, Québec (QC) G1W 3P5 </LOC>
+<DESCRIP>4 loisirs inc.</DESCRIP>
+<CO>60,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>TENN1205-623350-1BECOURSU</CODEID>
+<DT01>2019-08-26</DT01>
+<DT02>2019-12-16</DT02>
+<HOR>Lundi de 19:00 à 21:30</HOR>
+<TITRE>Tennis de table / Entr. dirigé intergénérationnel et pratique libre</TITRE>
+<LOC>4, rue du Parloir, Québec (QC) G1R 4M5 </LOC>
+<DESCRIP>Club de tennis de table CHOPS</DESCRIP>
+<CO>140,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>TENN1205-623378-2BDUFOUR</CODEID>
+<DT01>2019-08-27</DT01>
+<DT02>2019-12-17</DT02>
+<HOR>Mardi de 09:00 à 12:00</HOR>
+<TITRE>Tennis de table / Pratique libre et dirigée</TITRE>
+<LOC>222, avenue Ducharme, Québec (QC) G1M 2H3 </LOC>
+<DESCRIP>Club de tennis de table CHOPS</DESCRIP>
+<CO>130,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>TENN2021-613520-2PPREVERT</CODEID>
+<DT01>2019-05-06</DT01>
+<DT02>2019-10-24</DT02>
+<HOR>Dimanche de 09:00 à 22:00</HOR>
+<HOR>Jeudi de 16:00 à 22:00</HOR>
+<HOR>Lundi de 10:00 à 22:00</HOR>
+<HOR>Mardi de 16:00 à 22:00</HOR>
+<HOR>Mercredi de 16:00 à 22:00</HOR>
+<HOR>Samedi de 09:00 à 22:00</HOR>
+<HOR>Vendredi de 16:00 à 22:00</HOR>
+<TITRE>Tennis</TITRE>
+<LOC>1475, rue Virginia-Woolf, Québec (QC) G2K 0B1 </LOC>
+<DESCRIP>Loisirs Lebourgneuf inc.</DESCRIP>
+<CO>35,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>TENN2021-613521-2PPREVERT</CODEID>
+<DT01>2019-05-06</DT01>
+<DT02>2019-10-24</DT02>
+<HOR>Dimanche de 09:00 à 22:00</HOR>
+<HOR>Jeudi de 16:00 à 22:00</HOR>
+<HOR>Lundi de 16:00 à 22:00</HOR>
+<HOR>Mardi de 16:00 à 22:00</HOR>
+<HOR>Mercredi de 16:00 à 22:00</HOR>
+<HOR>Samedi de 09:00 à 22:00</HOR>
+<HOR>Vendredi de 16:00 à 22:00</HOR>
+<TITRE>Tennis</TITRE>
+<LOC>1475, rue Virginia-Woolf, Québec (QC) G2K 0B1 </LOC>
+<DESCRIP>Loisirs Lebourgneuf inc.</DESCRIP>
+<CO>35,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>TENN4088-617764-4BARTENBO</CODEID>
+<DT01>2019-06-04</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mardi de 18:00 à 19:30</HOR>
+<TITRE>Cours de tennis - Junior - en soirée / Cours de tennis junior - en soirée</TITRE>
+<LOC>570, 79e Rue Est, Québec (QC) G1H 1C2 </LOC>
+<DESCRIP>Loisirs du Jardin inc.</DESCRIP>
+<CO>104,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>TENN4088-617765-4BARTENBO</CODEID>
+<DT01>2019-06-06</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Jeudi de 18:00 à 19:30</HOR>
+<TITRE>Cours de tennis - Junior - en soirée / Cours de tennis - Junior en soirée</TITRE>
+<LOC>570, 79e Rue Est, Québec (QC) G1H 1C2 </LOC>
+<DESCRIP>Loisirs du Jardin inc.</DESCRIP>
+<CO>104,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>TENN4089-617766-4BARTENBO</CODEID>
+<DT01>2019-06-03</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Lundi de 19:30 à 21:00</HOR>
+<TITRE>Cours de tennis - Adulte / Cours de tennis - adulte</TITRE>
+<LOC>570, 79e Rue Est, Québec (QC) G1H 1C2 </LOC>
+<DESCRIP>Loisirs du Jardin inc.</DESCRIP>
+<CO>75,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>TENN4102-617761-4BARTENBO</CODEID>
+<DT01>2019-06-24</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Jeudi de 08:30 à 09:30</HOR>
+<HOR>Lundi de 08:30 à 09:30</HOR>
+<HOR>Mardi de 08:30 à 09:30</HOR>
+<HOR>Mercredi de 08:30 à 09:30</HOR>
+<HOR>Vendredi de 08:30 à 09:30</HOR>
+<TITRE>Cours de tennis - Junior - de jour / Cours de tennis junior de jour - débutant</TITRE>
+<LOC>570, 79e Rue Est, Québec (QC) G1H 1C2 </LOC>
+<DESCRIP>Loisirs du Jardin inc.</DESCRIP>
+<CO>122,50</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>TENN4102-617762-4BARTENBO</CODEID>
+<DT01>2019-06-24</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Jeudi de 09:30 à 10:30</HOR>
+<HOR>Lundi de 09:30 à 10:30</HOR>
+<HOR>Mardi de 09:30 à 10:30</HOR>
+<HOR>Mercredi de 09:30 à 10:30</HOR>
+<HOR>Vendredi de 09:30 à 10:30</HOR>
+<TITRE>Cours de tennis - Junior - de jour / Cours de tennis junior de jour - initié</TITRE>
+<LOC>570, 79e Rue Est, Québec (QC) G1H 1C2 </LOC>
+<DESCRIP>Loisirs du Jardin inc.</DESCRIP>
+<CO>122,50</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615852-5PSTOLIV</CODEID>
+<DT01>2019-06-23</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Jeudi de 17:45 à 18:30</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>59,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615853-5PSTOLIV</CODEID>
+<DT01>2019-06-23</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Jeudi de 17:45 à 18:30</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>75,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615854-5PSTOLIV</CODEID>
+<DT01>2019-06-23</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mardi de 18:00 à 19:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>108,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615855-5PSTOLIV</CODEID>
+<DT01>2019-06-23</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mardi de 18:00 à 19:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>140,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615856-5PSTOLIV</CODEID>
+<DT01>2019-06-23</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mardi de 18:00 à 19:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>108,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615857-5PSTOLIV</CODEID>
+<DT01>2019-06-23</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mardi de 18:00 à 19:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>140,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615858-5PSTOLIV</CODEID>
+<DT01>2019-06-23</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mardi de 19:00 à 20:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>108,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615859-5PSTOLIV</CODEID>
+<DT01>2019-06-23</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mardi de 19:00 à 20:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>140,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615860-5PSTOLIV</CODEID>
+<DT01>2019-06-23</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mardi de 19:00 à 20:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>108,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615861-5PSTOLIV</CODEID>
+<DT01>2019-06-23</DT01>
+<DT02>2019-08-31</DT02>
+<HOR>Mardi de 19:00 à 20:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>140,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615862-5PSTOLIV</CODEID>
+<DT01>2019-05-08</DT01>
+<DT02>2019-09-07</DT02>
+<HOR>Lundi de 18:00 à 19:00</HOR>
+<HOR>Mercredi de 18:00 à 19:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>160,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615863-5PSTOLIV</CODEID>
+<DT01>2019-05-08</DT01>
+<DT02>2019-09-07</DT02>
+<HOR>Lundi de 18:00 à 19:00</HOR>
+<HOR>Mercredi de 18:00 à 19:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>210,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615864-5PSTOLIV</CODEID>
+<DT01>2019-05-08</DT01>
+<DT02>2019-09-07</DT02>
+<HOR>Lundi de 18:00 à 19:00</HOR>
+<HOR>Mercredi de 18:00 à 19:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>160,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615865-5PSTOLIV</CODEID>
+<DT01>2019-05-08</DT01>
+<DT02>2019-09-07</DT02>
+<HOR>Lundi de 18:00 à 19:00</HOR>
+<HOR>Mercredi de 18:00 à 19:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>210,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615866-5PSTOLIV</CODEID>
+<DT01>2019-05-08</DT01>
+<DT02>2019-09-07</DT02>
+<HOR>Lundi de 19:00 à 20:00</HOR>
+<HOR>Mercredi de 19:00 à 20:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>160,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615867-5PSTOLIV</CODEID>
+<DT01>2019-05-08</DT01>
+<DT02>2019-09-07</DT02>
+<HOR>Lundi de 19:00 à 20:00</HOR>
+<HOR>Mercredi de 19:00 à 20:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>210,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615872-5PSTOLIV</CODEID>
+<DT01>2019-05-08</DT01>
+<DT02>2019-09-07</DT02>
+<HOR>Lundi de 19:00 à 20:00</HOR>
+<HOR>Mercredi de 19:00 à 20:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>160,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VELO5100-615873-5PSTOLIV</CODEID>
+<DT01>2019-05-08</DT01>
+<DT02>2019-09-07</DT02>
+<HOR>Lundi de 19:00 à 20:00</HOR>
+<HOR>Mercredi de 19:00 à 20:00</HOR>
+<TITRE>BMX de course</TITRE>
+<LOC>143, rue des Feux-Follets, Québec (QC) G1B 1K8 </LOC>
+<DESCRIP>Club BMX Beauport</DESCRIP>
+<CO>210,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VOLL1201-615580-1PDOLLARD</CODEID>
+<DT01>2019-05-29</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 18:00 à 21:00</HOR>
+<TITRE>Volleyball - Réservation saisonnière / Ligue 2 contre 2 mixte</TITRE>
+<LOC>320, rue de Verdun, Québec (QC) G1N 4S4 </LOC>
+<DESCRIP>Académie ProBeach</DESCRIP>
+<CO>165,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VOLL1201-615591-1PDOLLARD</CODEID>
+<DT01>2019-05-30</DT01>
+<DT02>2019-08-29</DT02>
+<HOR>Jeudi de 18:00 à 21:00</HOR>
+<TITRE>Volleyball - Réservation saisonnière / Ligue 2 contre 2 masculin A</TITRE>
+<LOC>320, rue de Verdun, Québec (QC) G1N 4S4 </LOC>
+<DESCRIP>Académie ProBeach</DESCRIP>
+<CO>165,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>VOLL1201-615594-1PLUBORNE</CODEID>
+<DT01>2019-05-30</DT01>
+<DT02>2019-08-29</DT02>
+<HOR>Jeudi de 18:00 à 21:00</HOR>
+<TITRE>Volleyball - Réservation saisonnière / Ligue 4 contre 4 mixte</TITRE>
+<LOC>100, chemin Sainte-Foy, Québec (QC) G1R 1T2 </LOC>
+<DESCRIP>Académie ProBeach</DESCRIP>
+<CO>330,00</CO>
+<CATEG>Sports et de plein air</CATEG>
+</EVT>
+<EVT><MUNID>23027</MUNID>
+<CODEID>YOGA2017-613229-2BLAFRANCE</CODEID>
+<DT01>2019-06-26</DT01>
+<DT02>2019-08-28</DT02>
+<HOR>Mercredi de 19:30 à 20:25</HOR>
+<TITRE>Conditionnement physique - Tonus / Cond physique - Power Yoga</TITRE>
+<LOC>4075, rue Maria-Goretti, Québec (QC) G1P 1Y2 </LOC>
+<DESCRIP>Loisirs Duberger-Les Saules inc.</DESCRIP>
+<CO>67,00</CO>
+<CATEG>Mieux-être</CATEG>
+</EVT>
+</ns1:EVTS>
